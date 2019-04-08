@@ -1,0 +1,11 @@
+crusader with hammer and shield - upgrade to heal when strike
+knight with two handed spear - upgrade to peco (faster but peco can be killed to dismount)
+swordman with sword - no upgrade (but cheapest)
+archer - upgrade to longer range
+assassin with dual daggers, high atk, low hp, low cost - upgrade to less cost
+mage with rod, named prophet, area of effect - upgrade to more area
+priest with bible, heals what's in front but doesn't walk fast - upgrade to resurrect self once when dead
+taekwon with feet (pushback) - upgrade to more pushback
+ninja with samurai when close to enemy and shurikens when afar - upgrade to destroy missles
+gunslinger with very low armor but very high atk - upgrade from pistol (needs reload) to gatling (no reload)
+champion that only slowly asura strikes, good against bosses - upgrade to faster atk
